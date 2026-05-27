@@ -3,7 +3,7 @@
 > 54 commune/wards
 > Code: 22
 > Coordinates: 21.264, 107.223
-> Last updated: 2026-05-17. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Commune/Wards
 

@@ -3,7 +3,7 @@
 > 40 commune/wards
 > Code: 46
 > Coordinates: 16.332, 107.517
-> Last updated: 2026-05-17. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Commune/Wards
 

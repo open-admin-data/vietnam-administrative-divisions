@@ -3,7 +3,7 @@
 > 124 commune/wards
 > Code: 08
 > Coordinates: 22.49, 105.099
-> Last updated: 2026-05-17. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Commune/Wards
 

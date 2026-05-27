@@ -3,7 +3,7 @@
 > 103 commune/wards
 > Code: 92
 > Coordinates: 9.744, 105.757
-> Last updated: 2026-05-17. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Commune/Wards
 

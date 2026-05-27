@@ -3,7 +3,7 @@
 > 102 commune/wards
 > Code: 91
 > Coordinates: 10.179, 105.096
-> Last updated: 2026-05-17. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Commune/Wards
 
