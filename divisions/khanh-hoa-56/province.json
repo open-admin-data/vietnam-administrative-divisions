@@ -25,5 +25,9 @@
     "lon": "108.961"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/vn/provinces/khanh-hoa-56/",
+    "api": "https://openadmindata.org/api/vn/"
+  }
 }

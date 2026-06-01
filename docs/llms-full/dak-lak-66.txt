@@ -3,7 +3,7 @@
 > 102 commune/wards
 > Code: 66
 > Coordinates: 12.707, 108.47
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Commune/Wards
 

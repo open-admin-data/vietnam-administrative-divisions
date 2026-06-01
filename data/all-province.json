@@ -26,7 +26,11 @@
       "lon": "105.698"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/ha-noi-01/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "04",
@@ -55,7 +59,11 @@
       "lon": "106.083"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/cao-bang-04/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "08",
@@ -84,7 +92,11 @@
       "lon": "105.099"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/tuyen-quang-08/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "11",
@@ -113,7 +125,11 @@
       "lon": "103.232"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/dien-bien-11/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "12",
@@ -142,7 +158,11 @@
       "lon": "103.185"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/lai-chau-12/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "14",
@@ -171,7 +191,11 @@
       "lon": "104.069"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/son-la-14/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "15",
@@ -200,7 +224,11 @@
       "lon": "104.347"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/lao-cai-15/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "19",
@@ -229,7 +257,11 @@
       "lon": "105.824"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/thai-nguyen-19/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "20",
@@ -258,7 +290,11 @@
       "lon": "106.728"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/lang-son-20/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "22",
@@ -287,7 +323,11 @@
       "lon": "107.223"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/quang-ninh-22/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "24",
@@ -316,7 +356,11 @@
       "lon": "106.167"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/bac-ninh-24/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "25",
@@ -345,7 +389,11 @@
       "lon": "105.333"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/phu-tho-25/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "31",
@@ -374,7 +422,11 @@
       "lon": "106.47"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/hai-phong-31/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "33",
@@ -403,7 +455,11 @@
       "lon": "106.463"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/hung-yen-33/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "37",
@@ -432,7 +488,11 @@
       "lon": "106.046"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/ninh-binh-37/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "38",
@@ -461,7 +521,11 @@
       "lon": "105.317"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/thanh-hoa-38/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "40",
@@ -490,7 +554,11 @@
       "lon": "104.944"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/nghe-an-40/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "42",
@@ -519,7 +587,11 @@
       "lon": "105.735"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/ha-tinh-42/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "44",
@@ -548,7 +620,11 @@
       "lon": "106.527"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/quang-tri-44/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "46",
@@ -577,7 +653,11 @@
       "lon": "107.517"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/hue-46/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "48",
@@ -606,7 +686,11 @@
       "lon": "107.966"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/da-nang-48/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "51",
@@ -635,7 +719,11 @@
       "lon": "108.143"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/quang-ngai-51/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "52",
@@ -664,7 +752,11 @@
       "lon": "108.438"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/gia-lai-52/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "56",
@@ -693,7 +785,11 @@
       "lon": "108.961"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/khanh-hoa-56/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "66",
@@ -722,7 +818,11 @@
       "lon": "108.47"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/dak-lak-66/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "68",
@@ -751,7 +851,11 @@
       "lon": "107.968"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/lam-dong-68/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "75",
@@ -780,7 +884,11 @@
       "lon": "107.034"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/dong-nai-75/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "79",
@@ -809,7 +917,11 @@
       "lon": "106.638"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/ho-chi-minh-79/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "80",
@@ -838,7 +950,11 @@
       "lon": "106.123"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/tay-ninh-80/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "82",
@@ -867,7 +983,11 @@
       "lon": "105.999"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/dong-thap-82/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "86",
@@ -896,7 +1016,11 @@
       "lon": "106.292"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/vinh-long-86/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "91",
@@ -925,7 +1049,11 @@
       "lon": "105.096"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/an-giang-91/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "92",
@@ -954,7 +1082,11 @@
       "lon": "105.757"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/can-tho-92/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   },
   {
     "id": "96",
@@ -983,6 +1115,10 @@
       "lon": "105.182"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/vn/provinces/ca-mau-96/",
+      "api": "https://openadmindata.org/api/vn/"
+    }
   }
 ]

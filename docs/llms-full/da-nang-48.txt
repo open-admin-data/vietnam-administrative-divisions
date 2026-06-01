@@ -3,7 +3,7 @@
 > 94 commune/wards
 > Code: 48
 > Coordinates: 15.631, 107.966
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Commune/Wards
 

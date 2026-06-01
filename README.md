@@ -13,7 +13,7 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-27 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/vn](https://openadmindata.org/vn/) |
 | API | [openadmindata.org/api/vn](https://openadmindata.org/api/vn/) |
 
