@@ -3,7 +3,7 @@
 > 78 commune/wards
 > Code: 44
 > Coordinates: 17.241, 106.527
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Commune/Wards
 

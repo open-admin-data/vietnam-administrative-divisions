@@ -3,7 +3,7 @@
 > 114 commune/wards
 > Code: 31
 > Coordinates: 20.876, 106.47
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Commune/Wards
 
