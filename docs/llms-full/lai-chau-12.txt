@@ -3,7 +3,7 @@
 > 38 commune/wards
 > Code: 12
 > Coordinates: 22.318, 103.185
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Commune/Wards
 
