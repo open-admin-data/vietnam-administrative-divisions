@@ -3,7 +3,7 @@
 > 65 commune/wards
 > Code: 20
 > Coordinates: 21.774, 106.728
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Commune/Wards
 
