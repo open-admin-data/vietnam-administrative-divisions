@@ -13,11 +13,12 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/vn](https://openadmindata.org/vn/) |
 | API | [openadmindata.org/api/vn](https://openadmindata.org/api/vn/) |
 | Flag | [PNG](https://onlygames.me/flags-png/vn/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Vietnam National Anthem MP3](https://onlygames.me/national-anthems/vn/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/vnm) · [Population](https://nationdata.org/population/country/vnm) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Province/City
 
